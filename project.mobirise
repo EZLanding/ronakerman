@@ -144,20 +144,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<center><br><br><iframe width=\"853\" height=\"480\" src=\"https://www.messenger.com/login.php?next=https%3A%2F%2Fwww.messenger.com%2Ft%2F484755635022924%2F%3Fmessaging_source%3Dsource%253Apages%253Amessage_shortlink\" frameborder=\"0\" allowfullscreen=\"\"></iframe></center>",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-3",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
         }
       ]
     }
